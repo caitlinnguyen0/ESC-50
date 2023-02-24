@@ -1,4 +1,5 @@
 filename,fold,target,category,esc10,src_file,take
+1-85362-A-0.wav	1	0	dog	True	85362	A
 2-103426-A-3.wav,2,3,cow,False,103426,A
 2-103427-A-3.wav,2,3,cow,False,103427,A
 2-103428-A-3.wav,2,3,cow,False,103428,A
