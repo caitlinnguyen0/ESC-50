@@ -1,5 +1,4 @@
 filename,fold,target,category,esc10,src_file,take
-1-85362-A-0.wav,1,0,dog,True,85362,A
 2-103426-A-3.wav,2,3,cow,False,103426,A
 2-103427-A-3.wav,2,3,cow,False,103427,A
 2-103428-A-3.wav,2,3,cow,False,103428,A
@@ -11,5 +10,6 @@ filename,fold,target,category,esc10,src_file,take
 2-104877-A-3.wav,2,3,cow,False,104877,A
 2-104952-A-16.wav,2,16,wind,False,104952,A
 2-104952-B-16.wav,2,16,wind,False,104952,B
+3-132852-A-10.wav,3,10,rain,True,132852,A
 5-198411-E-20.wav,5,20,crying_baby,True,198411,E
 5-151085-A-20.wav,5,20,crying_baby,True,151085,A
